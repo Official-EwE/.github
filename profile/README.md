@@ -1,4 +1,4 @@
-Links to the projects:
+Links to the (private!) projects:
 
 - [Ecopath project](https://github.com/Official-EwE/Ecopath-project)
 - [SURIMI project](https://github.com/Official-EwE/SURIMI-project)
