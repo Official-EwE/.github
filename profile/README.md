@@ -4,4 +4,4 @@ Links to the (private!) projects:
 - [SURIMI project](https://github.com/Official-EwE/SURIMI-project)
 
 
-The projects contain the Wiki pages and the Issues of the project. NOT THE CODE
+The projects contain the Wiki pages and the Issues of the project. NOT THE CODE OR THE DATA
