@@ -1,3 +1,3 @@
 Guidelines for software development in Official-EwE
-- GitVersion
+- [GitVersion](gitversion.md)
 - 
