@@ -2,6 +2,7 @@
 
 ## Problem
 GitVersion may not increment versions if tags are not on trunk.
+This leads to the patch Version of the package / release not being incremented.
 
 ## Root cause
 Tags were created on commits not reachable from the mainline (master).
